@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Abdullah
+- 👀 I’m interested in MERN Stack development
+- 🌱 I’m currently learning Computer Science, WEB3.0
