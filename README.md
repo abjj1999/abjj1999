@@ -25,4 +25,4 @@
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=abjj1999&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abjj1999&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
