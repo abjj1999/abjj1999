@@ -2,6 +2,9 @@
 - 👀 I’m interested in MERN Stack development
 - 🌱 I’m currently learning Computer Science, WEB3.0
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 ## Languages 
 
