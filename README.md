@@ -4,6 +4,8 @@
 
 
 ## Languages 
-                          
-![badge](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML)
-![badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=appveyor)
+
+![badge](https://img.shields.io/badge/MERN-red?style=for-the-badge)
+![badge](https://img.shields.io/badge/HTML-red?style=for-the-badge)
+![badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+![badge](https://img.shields.io/badge/CSS-purple?style=for-the-badge)
