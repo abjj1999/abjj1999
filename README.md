@@ -4,10 +4,6 @@
 
 <div id="header" align="center">
   <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="300"/>
-</div>
-
-## Languages 
-
 ![badge](https://img.shields.io/badge/MERN-red?style=for-the-badge)
 ![badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
 ![badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
@@ -15,3 +11,8 @@
 ![badge](https://img.shields.io/badge/python-blue?style=for-the-badge)
 ![badge](https://img.shields.io/badge/C++-orange?style=for-the-badge)
 ![badge](https://img.shields.io/badge/Java-brown?style=for-the-badge)
+</div>
+
+
+
+
