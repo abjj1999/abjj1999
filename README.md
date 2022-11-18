@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Science, WEB3.0
 
 <div id="header" align="center">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="300"/>
+  <img src="https://media0.giphy.com/media/k0ijJhqrUP4T2EvmJ1/200w.gif?cid=6c09b952lsldbf12fbkq5jmdnex6tt9aginl6h4uspypeopc&rid=200w.gif&ct=g" width="300"/>
 
 </div>
 
