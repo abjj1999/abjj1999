@@ -5,4 +5,4 @@
 
 ## Languages 
                           
-![badge](https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=appveyor)
+![badge](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=appveyor)
