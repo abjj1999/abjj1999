@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abjj1999" alt="abjj1999" /></a> </p>
 
-- 🔭 I’m currently working on **Computer Science**
+- 🔭 I’m currently working on **Computer Science bachelor's at the University of Houston**
 
 - 💬 Ask me about **React, Node, All MERN**
 
